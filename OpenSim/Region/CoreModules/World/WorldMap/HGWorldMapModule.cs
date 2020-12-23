@@ -37,6 +37,7 @@ using OpenSim.Framework;
 using OpenSim.Region.CoreModules.World.WorldMap;
 using OpenSim.Region.Framework.Interfaces;
 using OpenSim.Region.Framework.Scenes;
+using OpenSim.Services.Interfaces;
 
 
 namespace OpenSim.Region.CoreModules.Hypergrid
